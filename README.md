@@ -11,7 +11,7 @@ style.css
     - Consolidated h2, h3, and duplicate img class functions
     
 Screenshot:
-![]Code_Refactor.jpg
+![](Code_Refactor.jpg)
 
 URL:
 https://kcrawford101.github.io/Code_Refactor/
