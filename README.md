@@ -7,5 +7,13 @@ index.html
 
 style.css
     - Removed .header div ul class
+    - Removed .header h1
+    - Consolidated h2, h3, and duplicate img class functions
+    
+Screenshot:
+Code_Refactor.jpg
+
+URL:
+https://kcrawford101.github.io/Code_Refactor/
 
 Updated by Kevin Crawford 5/11/21
