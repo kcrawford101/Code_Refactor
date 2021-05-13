@@ -84,7 +84,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -97,7 +97,7 @@ p {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} */
 
 /* Consolidated h3 tags */
 h3 {
@@ -151,13 +151,13 @@ h2 {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
