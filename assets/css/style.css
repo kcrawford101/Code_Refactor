@@ -20,7 +20,8 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+/* Removed .header h1  */
+.seo {
     color: #d9dcd6;
 }
 
