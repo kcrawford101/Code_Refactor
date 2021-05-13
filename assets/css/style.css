@@ -34,7 +34,6 @@ body {
 }
 
 /* Removed .header div ul */
-
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -99,6 +98,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 /* Consolidated h3 tags */
 h3 {
     margin-bottom: 10px;
@@ -150,18 +150,12 @@ h3 {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+/* Consolidated img max-height */
+img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
+/* Consolidated h2 tags */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
